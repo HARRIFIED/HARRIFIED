@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HARRIFIED
-- 👀 I’m interested in ...software development💻 and also music🎶
+- 👀 I’m interested in ...web and mobile develoopment
 - 🌱 I’m currently a MERN developer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 
 - 📫 How to reach me ...@HIkpefua on twitter or +2349038466961 alos harrivic400@gmail.com
 
 <!---
