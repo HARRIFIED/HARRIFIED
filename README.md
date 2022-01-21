@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HARRIFIED
+- 👋 Hi, I’m Harrison Ikpefua
 - 👀 I’m interested in ...web and mobile develoopment
 - 🌱 I’m currently a web and mobile developer
 - 💞️ 
