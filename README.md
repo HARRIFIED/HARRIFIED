@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harrison Ikpefua
-- 👀 I’m interested in ...web and mobile develoopment
+- 👀 I’m interested in ...web and mobile development
 - 🌱 I’m currently a web and mobile developer
 - 💞️ 
 - 📫 How to reach me ...@HIkpefua on twitter or +2349038466961 alos harrivic400@gmail.com
