@@ -9,4 +9,4 @@ HARRIFIED/HARRIFIED is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://img.shields.io/badge/anytext_you_like_blue">
+[![](https://img.shields.io/badge/any_text-you_like-blue)](<hyperlink>)
