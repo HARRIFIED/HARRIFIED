@@ -9,3 +9,4 @@ HARRIFIED/HARRIFIED is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+https://img.shields.io/badge/anytext_you like_blue
