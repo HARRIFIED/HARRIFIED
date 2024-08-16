@@ -18,21 +18,11 @@ Welcome to my GitHub profile. I'm a passionate **Software Engineer** with a back
 - **Cloud:** AWS, GCP
 - **Other:** LangChain, OpenAI
 
-## 🌟 Projects
-
-Here are some of my notable projects:
-
-- **[Project Name](link-to-project):** A brief description of what it does and the technologies used.
-- **[Project Name](link-to-project):** A brief description of what it does and the technologies used.
-- **[Project Name](link-to-project):** A brief description of what it does and the technologies used.
-
-Feel free to explore and check out the code!
-
 ## 📫 How to Reach Me
 
 - **Email:** [harrifiedtech@gmail.com](mailto:harrifiedtech@gmail.com)
 - **LinkedIn:** [Harrified](https://www.linkedin.com/in/harrified/)
-- **Twitter:** [@Harrified_]([https://twitter.com/YourTwitterHandle](https://x.com/Harrified_))
+- **Twitter:** [@Harrified_](https://x.com/Harrified_))
 
 ## 🎓 Experience & Background
 
