@@ -15,7 +15,7 @@ Welcome to my GitHub profile. I'm a passionate **Software Engineer** with a back
 - **Frontend:** React, Redux, NextJS
 - **Mobile:** React Native
 - **Backend:** NodeJS, GraphQL, NestJS, Express, Flask, Django, FastAPI
-- **Cloud:** AWS, GCP
+- **Cloud/Infrastructures:** AWS, GCP, Kubernetes, Docker, NATS
 - **Other:** LangChain, OpenAI
 
 ## 📫 How to Reach Me
