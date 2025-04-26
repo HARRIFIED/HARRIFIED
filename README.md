@@ -11,7 +11,7 @@ Welcome to my GitHub profile. I'm a passionate **Software Engineer** with a back
 
 ## 💻 Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, Python
+- **Languages:** JavaScript, TypeScript, Python, Go
 - **Frontend:** React, Redux, NextJS
 - **Mobile:** React Native
 - **Backend:** NodeJS, GraphQL, NestJS, Express, Flask, Django, FastAPI
