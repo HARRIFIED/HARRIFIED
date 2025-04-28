@@ -30,4 +30,4 @@ With over 3 years of experience working in both corporate and freelance settings
 
 ## 🛠️ Open to Opportunities
 
-I’m currently open to new opportunities in the fintech industry and am available for frontend, mobile, and backend roles. Feel free to reach out if you have a project or role in mind!
+I’m open to new opportunities for front-end, mobile, and back-end roles. Feel free to reach out if you have a project or role in mind!
