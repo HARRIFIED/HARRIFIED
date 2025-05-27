@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Harrison Ikpefua!
 
-Welcome to my GitHub profile. I'm a passionate **Software Engineer** with a background in **Chemical Engineering**, now specializing in **Frontend, Mobile, and Backend Development**. I love building impactful solutions and exploring new technologies. 
+Welcome to my GitHub profile. I'm a passionate software engineer specializing in frontend, Mobile, and backend development. I love building and scaling products. 
 
 ## 🚀 What I Do
 
@@ -24,10 +24,5 @@ Welcome to my GitHub profile. I'm a passionate **Software Engineer** with a back
 - **LinkedIn:** [Harrified](https://www.linkedin.com/in/harrified/)
 - **Twitter:** [@Harrified_](https://x.com/Harrified_))
 
-## 🎓 Experience & Background
-
-With over 3 years of experience working in both corporate and freelance settings, I've honed my skills in various domains and am continually learning to stay up-to-date with industry trends.
-
-## 🛠️ Open to Opportunities
 
 I’m open to new opportunities for front-end, mobile, and back-end roles. Feel free to reach out if you have a project or role in mind!
