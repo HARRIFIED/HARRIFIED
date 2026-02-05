@@ -10,17 +10,33 @@ Welcome to my GitHub profile. I'm a passionate software engineer specializing in
 - **Cloud Services:** Leveraging AWS and GCP to deploy and manage applications.
 - **Recommendation Systems & AI:** Exploring machine learning, AI, and data-driven systems for smarter applications.
 
-## 💻 Technologies & Tools
+## 💻 Technical Skills
 
-- **Languages:** JavaScript, TypeScript, Python, Golang, Java
-- **Frontend:** React, Redux, NextJS
-- **Mobile:** React Native
-- **Backend:** NodeJS, GraphQL, NestJS, Express, Flask, Django, FastAPI, Gin, Spring
-- **Cloud/Infrastructures:** AWS, GCP, Kubernetes, Docker, NATS
+- **Programming Languages:**
+JavaScript, TypeScript, Python, Java, Go
+
+- **Frameworks & Application Development:**
+Node.js, NestJS, Express.js, Spring Boot, Gin, React, Next.js, React Native, GraphQL, gRPC
+
+- **Distributed Systems & Messaging:**
+Kafka, RabbitMQ, NATS
+
+- **Cloud & Infrastructure:**
+AWS, Google Cloud Platform (GCP), Kubernetes, Docker, Nginx
+
+- **Databases & Data Stores:**
+PostgreSQL, MySQL, MongoDB, DynamoDB, Cassandra, Redis
+
+- **Monitoring & Observability:**
+Prometheus, Grafana, New Relic, Splunk, Sentry, CloudWatch
+
+- **Testing & Code Quality:**
+Jest, Mocha, Cypress, Mockito, Unit Testing, Integration Testing
+
 - **Other:** LangChain, OpenAI
 
 ## 📫 How to Reach Me
-
+- **Website:** https://harrified.com
 - **Email:** [harrifiedtech@gmail.com](mailto:harrifiedtech@gmail.com)
 - **LinkedIn:** [Harrified](https://www.linkedin.com/in/harrified/)
 - **Twitter:** [@Harrified_](https://x.com/Harrified_)
