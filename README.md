@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Harrison Ikpefua!
 
-Welcome to my GitHub profile. I'm a passionate software engineer specializing in frontend, mobile, and backend development. I love building and scaling products, and I have a strong interest in **building and scaling large-scale distributed systems, Recommendation Systems in Machine Learning, Data Structures & Algorithms (DSA), and Artificial Intelligence (AI).**
+Welcome to my GitHub profile. I'm a passionate software engineer specializing in frontend, mobile, and backend development. I love building and scaling products, and I have a strong interest in **distributed backend systems, Recommendation Systems in Machine Learning, Data Structures & Algorithms (DSA), and Artificial Intelligence (AI).**
 
 ## 🚀 What I Do
 
